@@ -55,3 +55,7 @@ dkms.conf
 *.img
 *.fd
 *.qcow2
+
+# keyfile
+id_rsa*
+authorized_keys
